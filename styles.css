@@ -426,8 +426,11 @@ article .icon {
   height: 2.5rem;
 }
 #timing{
+  height:1000px;
+  weight:1000px;
   display:flex;
   justify-content:center;
+  
 }
 /* FOOTER SECTION */
 
